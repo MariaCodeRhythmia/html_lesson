@@ -1,0 +1,32 @@
+.title
+  {
+    background: rgba(210, 210, 210, 0.5);
+    text-align: center;
+  }
+
+
+html
+  {
+    background: rgba(220, 220, 220, 0.5);
+    font-family: sans-serif;
+
+  }
+
+.italics
+  {
+    color: gray;
+  }
+
+  body
+  {
+    margin: 20px 40px;
+  }
+
+  p
+  {
+    margin: 20 px;
+  }
+.may_box
+{
+  margin: 50 px;
+}
